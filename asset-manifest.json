@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beebizzle_/static/css/main.8b02865b.chunk.css",
+    "main.js": "/beebizzle_/static/js/main.2a891570.chunk.js",
+    "main.js.map": "/beebizzle_/static/js/main.2a891570.chunk.js.map",
+    "runtime-main.js": "/beebizzle_/static/js/runtime-main.6354a3c1.js",
+    "runtime-main.js.map": "/beebizzle_/static/js/runtime-main.6354a3c1.js.map",
+    "static/js/2.df06a2c0.chunk.js": "/beebizzle_/static/js/2.df06a2c0.chunk.js",
+    "static/js/2.df06a2c0.chunk.js.map": "/beebizzle_/static/js/2.df06a2c0.chunk.js.map",
+    "static/js/3.bf8bc91e.chunk.js": "/beebizzle_/static/js/3.bf8bc91e.chunk.js",
+    "static/js/3.bf8bc91e.chunk.js.map": "/beebizzle_/static/js/3.bf8bc91e.chunk.js.map",
+    "index.html": "/beebizzle_/index.html",
+    "static/css/main.8b02865b.chunk.css.map": "/beebizzle_/static/css/main.8b02865b.chunk.css.map",
+    "static/js/2.df06a2c0.chunk.js.LICENSE.txt": "/beebizzle_/static/js/2.df06a2c0.chunk.js.LICENSE.txt",
+    "static/media/airpod.e37d3e1a.jpg": "/beebizzle_/static/media/airpod.e37d3e1a.jpg",
+    "static/media/insta.5bbe2614.png": "/beebizzle_/static/media/insta.5bbe2614.png",
+    "static/media/preview.4cd04954.jpeg": "/beebizzle_/static/media/preview.4cd04954.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6354a3c1.js",
+    "static/js/2.df06a2c0.chunk.js",
+    "static/css/main.8b02865b.chunk.css",
+    "static/js/main.2a891570.chunk.js"
+  ]
+}
